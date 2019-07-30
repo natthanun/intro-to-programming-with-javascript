@@ -9,6 +9,8 @@
   - javascript is one of them
 - javascript เกิดมาเพื่อทำให้ Website มี interactive จากเดิมที่มีแค่ HTML ที่ใช้จัดโครงสร้างเว็บ กับ CSS ไว้จัดความสวยงาม
 - Javascript !== java เพียงแต่มีประวัติศาสตร์บางอย่างร่วมกัน แล้วคนก็เรียกติดปากว่า js แม้ว่าจะมีชื่อื่นอย่าง LiveScript ECMAScript
+
+- Example of part of Website using JS and Website without JS
 - Javascript can do many things
   - Web
   - Animation
